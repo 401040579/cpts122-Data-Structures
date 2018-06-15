@@ -1,0 +1,10 @@
+Name: "Leinart, Timothy"
+Email: tim@cpts122.edu
+Number_of_absences: 1
+Dates: 2016-3-16 
+
+Name: "Smith, John"
+Email: smithj@cpts122.edu
+Number_of_absences: 2
+Dates: 2016-3-15 2016-3-16 
+

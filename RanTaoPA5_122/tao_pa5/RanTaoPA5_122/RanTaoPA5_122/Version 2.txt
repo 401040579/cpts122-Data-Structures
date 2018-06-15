@@ -1,0 +1,10 @@
+Record: 1
+ID: 1111
+Name: "Smith, John"
+Email: smithj@cpts122.edu
+Units: 4
+Program: CS
+Level: Freshman
+Number_of_absences: 2
+Dates: 2016-3-15 2016-3-16 
+

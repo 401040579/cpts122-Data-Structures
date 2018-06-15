@@ -1,0 +1,100 @@
+Record: 10
+ID: 3255
+Name: "Mort, Kris"
+Email: mort@cpts122.edu
+Units: 4
+Program: CS
+Level: Senior
+Number_of_absences: 0
+Dates: 
+
+Record: 9
+ID: 1222
+Name: "Willis, Bruce"
+Email: brucewillis@cpts122.edu
+Units: AU
+Program: CS
+Level: Sophomore
+Number_of_absences: 0
+Dates: 
+
+Record: 8
+ID: 1122
+Name: "Smith, Jane"
+Email: jane@cpts122.edu
+Units: 4
+Program: CS
+Level: Sophomore
+Number_of_absences: 0
+Dates: 
+
+Record: 7
+ID: 7759
+Name: "Sam, Theo"
+Email: samt@cpts122.edu
+Units: 4
+Program: EE
+Level: Sophomore
+Number_of_absences: 0
+Dates: 
+
+Record: 6
+ID: 5530
+Name: "Payton, Ella"
+Email: epayton@cpts122.edu
+Units: 4
+Program: CPTE
+Level: Graduate
+Number_of_absences: 0
+Dates: 
+
+Record: 5
+ID: 2121
+Name: "James, Hannah"
+Email: jameshannah@cpts122.edu
+Units: 4
+Program: CS
+Level: Freshman
+Number_of_absences: 0
+Dates: 
+
+Record: 4
+ID: 4478
+Name: "Art, Bruce"
+Email: bart@cpts122.edu
+Units: AU
+Program: CPTE
+Level: Freshman
+Number_of_absences: 0
+Dates: 
+
+Record: 3
+ID: 1121
+Name: "Leinart, Timothy"
+Email: tim@cpts122.edu
+Units: 4
+Program: EE
+Level: Junior
+Number_of_absences: 1
+Dates: 2016-3-16 
+
+Record: 2
+ID: 8147
+Name: "Beck, Sara"
+Email: sara@cpts122.edu
+Units: 4
+Program: EE
+Level: Junior
+Number_of_absences: 1
+Dates: 2016-3-15 
+
+Record: 1
+ID: 1111
+Name: "Smith, John"
+Email: smithj@cpts122.edu
+Units: 4
+Program: CS
+Level: Freshman
+Number_of_absences: 2
+Dates: 2016-3-15 2016-3-16 
+
